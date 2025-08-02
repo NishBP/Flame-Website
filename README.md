@@ -14,26 +14,10 @@ This website serves as the digital home for FLAME Sales Strategists, showcasing 
 
 ## 🛠 Features
 
-- **Company Overview:** Learn more about our values, mission, and vision.
+- **Company Overview:** Learn more about our values, mission, and why why you should work with us.
 - **Services:** Explore our range of sales strategy services offered across multiple industries.
 - **Team:** Get to know the experts behind FLAME Sales Strategists.
-- **Contact Us:** Multiple ways to reach out, including email, phone, and a contact form.
-- **Responsive Design:** Enjoy a clean, user-friendly interface on any device.
-
----
-
-## 📦 Project Structure
-
-├── public/
-│ └── index.html # Main HTML entry
-├── src/
-│ ├── assets/ # Images, videos, and graphics
-│ ├── components/ # Vue.js components
-│ └── ... # Source files & logic
-├── package.json
-├── .gitignore
-├── README.md
-
+- **Contact Us:** Multiple ways to reach out, including email, phone, and booking system.
 
 ---
 
@@ -51,33 +35,11 @@ This website serves as the digital home for FLAME Sales Strategists, showcasing 
     npm run dev
     ```
 
-3. **Build for production**
-
-    ```
-    npm run build
-    ```
-
----
-
-## 🌐 Deployment
-
-This is a static site; after running `npm run build`, the generated files in `dist/` can be hosted on any static hosting provider (GitHub Pages, Netlify, Vercel, etc).
-
 ---
 
 ## 📝 Contributing
 
 This repository is solely for managing the company’s web presence and is not accepting contributions at this time.
-
----
-
-## 📫 Contact
-
-For more information or business inquiries:
-
-- **Website:** [YourWebsiteURL]
-- **Email:** [info@flamesales.com] (update as appropriate)
-- **Phone:** [Add company number]
 
 ---
 
