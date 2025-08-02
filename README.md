@@ -8,7 +8,7 @@ This website serves as the digital home for FLAME Sales Strategists, showcasing 
 
 ## 🚀 About FLAME Sales Strategists
 
-**FLAME Sales Strategists** is a specialist firm passionate about helping businesses drive growth through modern sales approaches, strategic insights, and hands-on consultancy.
+**FLAME Sales Strategists** is a compoany with speacilists passionate about helping businesses drive growth through modern sales approaches, strategic insights, and hands-on consultancy.
 
 ---
 
